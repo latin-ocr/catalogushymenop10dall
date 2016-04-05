@@ -1,0 +1,66 @@
+Bombus. 559
+
+var. proximus Cress. — Q — Am.: Utah.
+Bombus proximus Cresson, Proc. Entom. Soc. Philadelphia 11. 1863 p. 98 n. 21, φ.
+Bombus Howardii var. proximus Cresson, Synops. Hymen. N. Amer. 1887 p. 308.
+Bombus terricola var. proximus Ant. Handlirsch, Anu. naturh. HofmusWien III. 1888 p.234.
+ἶ, tersatus Smith — Ω - As.: Japonia.
+Bombus tex-satus Smith‚ Entomologist IV. 1869 p. 207, Ω.
+thoracicus Spin! — ῼ - Eur.: Italia.
+Bombus thoracicus Spinola, Insect. Ligur. Ι. 1806 p. 30 n. 13, Ω; Τ. 2 F. 11.
+thoracicus Sieh. — Ω φ <3 —- Am mer. [&3 ((3).
+Bombus thoracicus Sichel, Ann. soc. entom. France(4 )II. 1862p. 121 ,Ω Q& T. 14F. 2(Ω’)
+χῖ) Bombus belliemxis SSmith‚ Descr. New Spec. Hymen 1879 p. 131 n. 1, Ω [excl. patria}
+Bombus thoracicus Holmberg, Anal soe. cient. Argent VIII 1879 p. 157 n. 2, Ωφό.
+Bombus muscorum var. Corsicus Dalla Torre, Ber. naturw.-mediz. Ver. Innsbr. XII. 1882
+[p. 30, Q [excl. patria}
+Bombus thoracicus Holmberg, Aetas acad. ci. cordoba V. P. 2. 1884 p. 118 n. 2, Ω 95.
+Bombus thoracicus Radoszkowski, Bull. soc. natural. Moscou LIX. 1884 p.79; T.3 F. 29.
+Bombus thoracicus Ant. Handlirsch, Ann. natui-h.Hofmus.Wien III. 1888 p. 3353 T. 10 F. 4.
+Bombus Emiliae Dalla Torre, Wien. entom. Zeitg. IX. 1890 p. 139.
+
+tibialis Panz.! — Ω - Eur.: Germania.
+
+Bremus tibialis Panzer, Faun. Insect. German. VIII. 1805 P. 90 Τ. 16.
+
+Bombus tibialis Panzer, Krit. Revis. II. 1806 p. 263.
+
+Bombus tibialis llliger, Magaz. f. Insectenk. V. 1806 p. 172 n. 57.
+
+Bremus tibialis Jurine, Nouv. meth. class. Hymen. 1807 p. 262, Ω.
+tilingii Mor. — Ω (3 — As.
+
+Bombus Tilingi F. Morawitz, Bull. acad. sc. St. Petersbourg XXVII. 1881 p.217 n.4, 95.
+tranquebaricus Fabn! — As.: Tranquebar.
+
+Bombus Tranquebaricus Fabricius. Syst.. Piez. 1804 p. 343 n. 3.
+
+Bombus Tranquebaricus Illiger, Magaz. f. Insectenk. V. 1806 p. 172.
+tricolor Zett.! — Ω - Eur.: Lapponia.
+
+Bombus tricolor Zetterstedt, Insect. Lappon. Ι. 1838 p. 474 n. 9, Ω.
+
+tricornis Rad. — Ω <3 — As. centr.
+
+Bombus tricornis Radoszkowski, Horae soc.entom. Ross.XX11. 1888 p. 319,Ωό; Τ. 12 Ea? ·’
+
+trinomiimtus D. T. — Ω φ - Am: Mexieo.
+Bombus modestus Smith‚Journ. of Entom. I. 1861 p.1 53619 Q[neeCresson, nec Eversmann].
+Bombus modestus Cresson, Proc. Entom. Soc. Philadelphia 11. 1863 p. 109 n. 21-22, Ω φ.
+Bombus trinominatus Dana Torre‚ Wien. entom. Zeitg. IX. 1890 p. 139.
+
+tropicus (L.) Fabr. — Ω - Reg. calidae.
+Apis tropica Linne, Syst. nat. Ed. 10²³ Ι. 1758 p. 579 n. 38.
+Apis tropica Linue, Mus. Ludov. Ulric. 1764 p. 416 n. 6.
+Apis tropica Linus, Syst. nat. Ed. 12η 1.2. 1767 p. 961 n. 54.
+Apis tropica Fabricius, Syst. entom. 1775 p. 382 n. 25.
+Apis tropica Ph. L. Mstller, Linne: Vollst. Natursyst. V. 2. 1775 p. 906 n. 54; Τ. 27 F. 14.
+Apis tropica Fabricius, Spec. Insect. 1. 1781 p. 479 n. 30.
+Apis tropica Fabricius, Mant. Insect. Ι. 1787 p. 301 n. 34.
+Apis tropica Olivier, Encycl. method. Insect. IV. 1789 p. 67 n. 27.
+Apis tropica Gmelin, Linne: Syst. nat. Ed. 13³ I. 5. 1790 p. 2784 n. 5⁴.
+Apis tropica Fabricius, Entom. system 11. 1793 p. 324 n. 42.
+Bombus tropicus Fabricius, Syst. Piez. 1804 p. 351 n. 45.
+Bombus tropicus Illiger, Magaz. f. Insectenk. V. 1806 p. 172.
+Bremus tropicus Jurine, Nouv. meth. class. Hymen. 1807 p. 261, Ω.
+
