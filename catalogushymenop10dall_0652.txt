@@ -1,0 +1,281 @@
+632
+
+montanus 8,43,171,
+177, 277, 497, 510,
+527, 528, 531, 532,
+535, 564.
+
+montenegrensis 439.
+
+montezuma 241, 306,
+
+439.
+
+montezumia 277, 357.
+
+montezumius 277.
+
+monticola 439, 477,
+532.
+
+montivaga 277, 402,
+439.
+
+montivagum 466.
+
+montivagus 277, 535,
+546.
+
+montonii 439.
+
+Monumetha 381.
+
+morawitzii 27, 138,
+139, 199, 241, 346,
+357, 403, 439, 466,
+535.
+
+morbillosus 72.
+
+mordax 139,215,378.
+
+Morgania 499.
+
+moribunda 277.
+
+moribundus 277.
+
+morio 72, 139, 209, ,
+
+211, 357, 439.
+mormonum 466.
+0101080 27, 241.
+11101118οηί1 277, 357,
+
+535.
+morsitans 439.
+mortyana 440.
+mosaicum 473.
+mosquito 581.
+mouffetella 156.
+
+mucida 139, 264, 277,
+
+317, 403, 440.
+mucidus 277, 278,
+535.
+
+mucorea 139, 278.
+mucoreus 72, 278.
+mucronata 139, 201.
+multidens 440.
+multiplicatum 466.
+multispinosa 440.
+munda 139, 357.
+10010118 306.
+
+10010118 bicornis 407.
+
+Register.
+
+10010110 440,441,610.
+01010110 nitida 440.
+murina 278, 479.
+murinus 278.
+muscaria 215, 278,
+332, 581.
+0108001108 278.
+
+musciformis 307,610.
+museorum 504, 505,
+506, 507, 508, 535,
+559, 560, 561, 562,
+
+563.
+mussitans 312.
+mustela 27.
+mustelina 394.
+
+mutabilis 72, 160,
+
+357.
+mutata 581.
+mutica 358.
+muticus 499.
+Mydrosoma 36.
+myops 215.
+mystacea 441, 442.
+mystacina 139.
+
+Nana95,138,139,140,
+151, 168, 171, 241,
+347, 358, 403, 477,
+581.
+
+nanula 138.
+
+nanulus 73.
+
+nanum 464.
+
+nanus 48, 73, 171.
+
+napensis 537.
+
+nasalis 27, 132, 165.
+
+251, 442.
+nasica 73, 442.
+nasicus 73.
+nasidens 403.
+
+nasuta 43, 140, 214,
+269, 300, 358, 442,
+
+478.
+nasutum 478.
+
+nasutus 43, 97, 177,
+
+269, 416, 502, 533.
+natalensis 329.
+nausicaa 358.
+nearcticus 538.
+nebrodensis 184.
+nebulata 581.
+nebulosa 610.
+
+neglecta 140‚204‚298,
+
+362.
+negligenda 140.
+
+nelumbonis 27, 73.
+nemoralis 186, 335.
+
+nemorum 517, 538,
+
+573, 610.
+nestorea 441.
+neuter 549, 550.
+neutra 549.
+
+nevadensis 168, 182,
+236, 241, 329, 442,
+
+538.
+
+nidulans 80,140,284.
+
+285, 538.
+nidulator 442.
+
+nigella 185, 358, 610.
+
+niger 8, 171, 194.
+nigerrima 307, 581.
+nigerrimus 73.
+
+nigra 50, 189, 194,
+199, 225, 241, 314,
+
+317, 577, 581.
+0131008 183.
+nigratus 278.
+
+nigrescens 8,191,239‚
+
+307, 548.
+nigricallosa 27.
+nigricallosus 27.
+
+nigricans 350 , 523,
+
+610.
+
+nigriceps 20, 73, 140,
+
+241, 278, 329.
+nigriclypeatus 91.
+0131100110 467.
+
+01311001118 27, 358,
+
+570.
+
+nigricorne 378, 379.
+nigricornis 27, 53, 73,
+97, 98, 182, 230,
+241, 278, 344, 378,
+
+379.
+
+nigrifacies 28, 229,
+
+241.
+
+0131111008 28, 140.
+145, 158, 182, 228,
+
+241, 403.
+013111111ῖο 190.
+
+nigrilabris 73, 242,
+
+278, 288.
+01311ου10 467.
+
+nigrinus 73, 497.
+nigripennis 8, 314,
+442, 589.
+nigripes 4, 70, 73,
+171, 231, 235, 242,
+269, 278, 442, 470,
+515.
+nigriplantis 140, 27 8.
+nigrim 28, 140, 215,
+253, 311, 344, 442,
+478, 609.
+nigritarsis 28.
+nigritarum 609.
+nigrithorax 256, 466.
+nigritula 28.
+nigritulus 4, 8.
+nigritus 28.
+nigriventris 44, 73,
+307, 329, 403, 442,
+611.
+0131000000 96, 141,
+199, 242.
+nigroaeruginosa 278.
+nigroaeruginosus
+278.
+nigroantennata 358.
+nigrobarbata 101.
+nigrocaerulea 215,
+307.
+nigrocaeruleus 73.
+nigrocallosus 27.
+nigrocincta 215, 278,
+358, 442, 593.
+nigrocinctula 289.
+nigrocinctus278,538.
+nigrocinerea 141.
+nigrocoerulea 215,
+307.
+nigrocoeruleus 73.
+0131οἰ010010ιο 178.
+nigroflavida 349.
+nigrofulva 261, 267.
+nigrofulvus 267.
+nigrolabiata 242.
+nigromaculata 279.
+nigromaculatus 279,
+541.
+nigromarginatus 73,
+95.
+nigroolivacea 141.
+nigroplagiata 215.
+
+ 
+
